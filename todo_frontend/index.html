@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ToDo</title>
+    <link rel="stylesheet" href="./style.css">
+    <script src="./script.js"></script>
+</head>
+
+<body onload="loadTodos()">
+    <h1>ToDo-Liste</h1>
+    <form onSubmit="addTodo(); return false;">
+        <input type="text" id="todoInput" placeholder="Neues ToDo">
+        <button>Hinzufügen</button>
+    </form>
+
+    <ul id="todoList">
+        <li>Laden ...</li>
+    </ul>
+</body>
+
+</html>

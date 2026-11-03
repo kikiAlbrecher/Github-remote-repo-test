@@ -1,0 +1,42 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Obst kaufen"
+    },
+    {
+      "id": "2",
+      "title": "Gemüse pflanzen"
+    },
+    {
+      "id": "3",
+      "title": "Sport machen"
+    },
+    {
+      "id": "0901",
+      "title": "Staub saugen"
+    },
+    {
+      "id": "a90d",
+      "title": "Lesen"
+    },
+    {
+      "id": "60a1",
+      "title": "Test"
+    },
+    {
+      "id": "af84",
+      "title": "Spazieren gehen"
+    }
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "note1"
+    },
+    {
+      "id": "2",
+      "title": "note2"
+    }
+  ]
+}
